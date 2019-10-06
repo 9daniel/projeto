@@ -1,0 +1,5 @@
+C:\Users\etec\Desktop\01.10\projeto\projeto2\bin\projeto2.dll.config
+C:\Users\etec\Desktop\01.10\projeto\projeto2\bin\projeto2.dll
+C:\Users\etec\Desktop\01.10\projeto\projeto2\bin\projeto2.pdb
+C:\Users\etec\Desktop\01.10\projeto\projeto2\obj\Debug\projeto2.dll
+C:\Users\etec\Desktop\01.10\projeto\projeto2\obj\Debug\projeto2.pdb
